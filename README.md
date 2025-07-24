@@ -5,6 +5,9 @@ Farm Fusion is an end-to-end AI platform designed to provide intelligent insight
 
 **Please Note:** The API backend for the machine learning models is not actively hosted at the moment. Therefore, while the frontend website might load, the machine learning functionalities (predictions, recommendations) will not be operational.
 
+## Related Repositories
+- **Frontend:** https://github.com/apexrx/FarmFusion - The web interface for Farm Fusion platform
+
 ## Features
 This platform includes the following key functionalities:
 
